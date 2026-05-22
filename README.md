@@ -19,6 +19,7 @@ Dự án này tập trung vào việc nghiên cứu và xây dựng hệ thống
 
 ### 3.2. Khám phá dữ liệu (EDA)
 **Time Series Decomposition:** Bóc tách chuỗi dữ liệu thành: Xu hướng (Trend), Mùa (Seasonality - chu kỳ 7 ngày) và Phần dư (Residuals).
+
 ![Time Series Decomposition](./outputs/time_series_decomposition.png)
 
 **Phân tích tính mùa (Seasonality)**
